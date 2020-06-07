@@ -7,4 +7,7 @@ This project serves to consolidate my Node.js knowledge.
 2. Edit the `config.json`
 3. Start the server `node index.js`
 
+## License
+[The Unlicense](LICENSE)
+
 PR's are welcome!
